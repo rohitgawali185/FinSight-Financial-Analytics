@@ -1,0 +1,11 @@
+date,country,product,segment,sales,profit
+2014-07-01,United States of America,Paseo,Government,1159200.0,262200.0
+2014-02-01,France,Amarilla,Government,962500.0,247500.0
+2013-10-01,Germany,Velo,Government,1017338.0,246178.0
+2013-10-01,Germany,Amarilla,Government,1017338.0,246178.0
+2014-10-01,Germany,Velo,Government,986811.0,238791.0
+2014-10-01,Germany,VTT,Government,986811.0,238791.0
+2014-12-01,Canada,Carretera,Government,978236.0,236716.0
+2014-12-01,Canada,Paseo,Government,978236.0,236716.0
+2014-09-01,France,Amarilla,Government,936138.0,188378.0
+2014-12-01,France,Carretera,Government,746707.5,186407.5
